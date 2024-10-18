@@ -10,11 +10,14 @@ This Generative Adversial Model is trained on FashionMNIST. The goal is to gener
 Python, Pytorch, TorchVision, Matplotlib
 
 ## Results
+
 This is the after step 1000:
+
 ![image](https://github.com/user-attachments/assets/6da58d77-7e91-4b71-9800-77fd614b29b8)
 
 
 This is after training the model for 400 epochs:
+
 ![image](https://github.com/user-attachments/assets/95f072a7-d86c-4812-970b-1b2451adfa53)
 
 
